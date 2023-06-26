@@ -11,3 +11,6 @@ Adjust the VBA script to run on every worksheet (year) at once.
 Apply conditional formatting to highlight positive change in green and negative change in red.
 Ensure the script performs consistently on every sheet.
 
+Resources I used to help write the script for the assignment are:
+https://stackoverflow.com/questions/62471422/vba-loop-how-to-get-ticker-symbols-into-ticker-column 
+https://excelchamps.com/blog/useful-macro-codes-for-vba-newcomers/
