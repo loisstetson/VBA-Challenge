@@ -14,3 +14,6 @@ Ensure the script performs consistently on every sheet.
 Resources I used to help write the script for the assignment are:
 https://stackoverflow.com/questions/62471422/vba-loop-how-to-get-ticker-symbols-into-ticker-column 
 https://excelchamps.com/blog/useful-macro-codes-for-vba-newcomers/
+
+To view the complete xlsm file (with VBA script included (was unable to upload it due to the size of the file:
+https://drive.google.com/file/d/1ON2ExGxISfSSUUefg8fncmbph6yfFKqd/view?usp=drive_link
